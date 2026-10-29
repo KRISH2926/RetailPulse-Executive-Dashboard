@@ -203,8 +203,8 @@ Streamlit will display a local URL in the terminal, usually
 
 ## Portfolio Links
 
--   **GitHub repository:**[](https://github.com/KRISH2926/RetailPulse-Executive-Dashboard.git).
--   **Tableau Public dashboard:** [](https://public.tableau.com/authoring/RetailPulseExecutiveDashboard_17932958426970/RetailPulseExecutiveOverview#1).
+-   **GitHub repository:**[https://github.com/KRISH2926/RetailPulse-Executive-Dashboard.git].
+-   **Tableau Public dashboard:** [https://public.tableau.com/authoring/RetailPulseExecutiveDashboard_17932958426970/RetailPulseExecutiveOverview#1].
 -   **Streamlit demo:** Add a hosted app URL here if deployed.
 -   **Business Action Tracker:**
     `RetailPulse_Business_Action_Tracker.xlsx`
